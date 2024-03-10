@@ -1,1 +1,1 @@
-# Hotel_Cancallation_Classifier
+# Hotel_Cancallation_Classifier: Uses Machine Learning to classify whether a hotel booking will be cancelled or not using about 30 parameters. Started with a Decision tree classifier, enhancing it with Bagging and Random Forests (84, 86 and 88% accuracy). Used Logistic Regression and Naive Bayes for benchmarking.
